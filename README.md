@@ -3,11 +3,13 @@
 - 🌱 I’m currently learning how a genome has an adaptation to adverse environments in a eukaryotic model
 - 💞️ I’m looking to collaborate on bioinformatics projects that involve the identification of novel mutations.
 
-<b> Academic forming </b>
+<b> Education </b>
 
- * B. Sc. in Biotechnology Engineering
+ * Ph.D. candidate in Biological Sciences - currently
  * M. Sc. in Applied Biotechnology
- * Ph.D. candidate in Biological Sciences
+ * B. Sc. in Biotechnology Engineering
+ 
+ 
 
 <b> Publications </b>
 
