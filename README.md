@@ -13,7 +13,9 @@
 
 <b> Publications </b>
 
-1.- [Differential regulation of Pleurotus ostreatus dye peroxidases gene expression in response to dyes and potential application of recombinant Pleos-DyP1 in decolorization](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209711)
+- [Enhanced oxidative stress resistance in Ustilago maydis and its implications on the virulence](https://link.springer.com/article/10.1007/s10123-024-00489-8)
+  
+- [Differential regulation of Pleurotus ostreatus dye peroxidases gene expression in response to dyes and potential application of recombinant Pleos-DyP1 in decolorization](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209711)
 
 
 
