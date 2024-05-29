@@ -5,7 +5,7 @@
 
 <b> Education </b>
 
- * Ph.D. candidate in Biological Sciences - currently
+ * Ph.D. in Biological Sciences
  * M. Sc. in Applied Biotechnology
  * B. Sc. in Biotechnology Engineering
  
