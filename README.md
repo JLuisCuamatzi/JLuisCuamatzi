@@ -12,10 +12,11 @@
  
 
 <b> Publications </b>
+- [Regulation of dye-decolorizing peroxidase gene expression in <i>Pleurotus ostreatus</i> grown on glycerol as the carbon source](http://dx.doi.org/10.7717/peerj.17467)
 
-- [Enhanced oxidative stress resistance in Ustilago maydis and its implications on the virulence](https://link.springer.com/article/10.1007/s10123-024-00489-8)
+- [Enhanced oxidative stress resistance in <i>Ustilago maydis</i> and its implications on the virulence](https://link.springer.com/article/10.1007/s10123-024-00489-8)
   
-- [Differential regulation of Pleurotus ostreatus dye peroxidases gene expression in response to dyes and potential application of recombinant Pleos-DyP1 in decolorization](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209711)
+- [Differential regulation of <i>Pleurotus ostreatus</i> dye peroxidases gene expression in response to dyes and potential application of recombinant Pleos-DyP1 in decolorization](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209711)
 
 
 
