@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jorge Luis Cuamatzi Flores
-- 👀 I’m interested in biotechnology, bioinformatics, evolutionary biology.
-- 🌱 I’m interested in explore fungal pathogenesis.
+- 👀 I’m interested in bioinformatics, cancer genomics, and evolutionary biology.
 
 <b> Education </b>
 
